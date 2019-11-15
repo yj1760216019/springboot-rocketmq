@@ -1,2 +1,2 @@
 # springboot-rocketmq
-springboot集成rockeymq
+springboot集成rocketmq
