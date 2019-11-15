@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: rocketmq
+
+server:
+  port: 7010
+  servlet:
+    context-path: /rocketmq
+
+
+rocketmq:
+  name-server: 101.89.166.79:9876
+  producer:
+    group: my-group
+
+
+
+
+
+
