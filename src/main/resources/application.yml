@@ -9,7 +9,7 @@ server:
 
 
 rocketmq:
-  name-server: 101.89.166.79:9876
+  name-server: 101.89.*.*:9876
   producer:
     group: my-group
 
